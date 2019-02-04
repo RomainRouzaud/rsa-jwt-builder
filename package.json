@@ -1,0 +1,15 @@
+{
+  "name": "rsa-jwt-builder",
+  "version": "1.0.0",
+  "description": "Generate a JWT token from a RSA private key",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivier Poupeney",
+  "license": "MIT",
+  "dependencies": {
+    "njwt": "^0.4.0"
+  }
+}
